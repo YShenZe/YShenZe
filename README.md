@@ -1,7 +1,6 @@
 > [!TIP]
 > 目前正在开发：
 > - TailDown1.2.0
-> - 新Typecho主题-Tail
 > - 全新个人主页-ZeHome
 
 ## 👋 Hi, I'm @YShenZe
