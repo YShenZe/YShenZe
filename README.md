@@ -25,5 +25,9 @@
 ## 📂 My Projects
 
 - **[Taildown-PHP](https://github.com/YShenZe/TailDwon-PHP)**  
-  ⭐️ Stars: ![star](https://img.shields.io/github/stars/YShenZe/TailDown-PHP?style=social)  
-  🍴 Forks: ![fork](https://img.shields.io/github/forks/YShenZe/TailDown-PHP?style=social)
+  ⭐️ Stars: ![star](https://img.shields.io/github/stars/YShenZe/TailDown-PHP)  
+  🍴 Forks: ![fork](https://img.shields.io/github/forks/YShenZe/TailDown-PHP)
+
+- **[IP-ToolBox](https://github.com/YShenZe/IP-Toolbox)**  
+  ⭐️ Stars: ![star](https://img.shields.io/github/stars/YShenZe/IP-Toolbox)  
+  🍴 Forks: ![fork](https://img.shields.io/github/forks/YShenZe/IP-Toolbox)
