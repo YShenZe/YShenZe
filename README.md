@@ -6,5 +6,4 @@
 - 🌱 Currently learning **PHP** & **Node.js**  
 - 💞️ Open to collaboration on exciting projects  
 - 📫 **Email**: administer@mengze.vip
-- 😄 Pronouns: **cute, natural**  
-- ⚡ Fun Fact: **Mengze is handsome** 😆  
+- ⚡ Fun Fact: **I am handsome** 😆  
