@@ -21,5 +21,3 @@
 ## 📊 GitHub Stats
 
 ![仓库状态统计](https://github-readme-stats.vercel.app/api?username=YShenZe&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YShenZe&layout=compact&theme=tokyonight)
