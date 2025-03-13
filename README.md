@@ -24,4 +24,4 @@
 
 ## 📫 Connect with me
 
-[![Domain Email](https://img.shields.io/badge/Gmail-D14736?style=for-the-badge&logo=Domain Email&logoColor=white)](mailto:administer@mengze.vip)
+[![Domain Email](https://img.shields.io/badge/Email-D14736?style=for-the-badge&logo=gmailEmail&logoColor=white)](mailto:administer@mengze.vip)
