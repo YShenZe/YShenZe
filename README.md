@@ -23,7 +23,3 @@
 ![仓库状态统计](https://github-readme-stats.vercel.app/api?username=YShenZe&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YShenZe&layout=compact&theme=tokyonight)
-
-## 📫 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14736?style=for-the-badge&logo=gmail&logoColor=white)](mailto:administer@mengze.vip)
