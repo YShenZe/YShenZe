@@ -2,8 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=林梦泽&fontSize=90&fontAlign=50&fontAlignY=30&desc=投身科技，用代码丰富生活&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
 </p>
 
-# 👋 Hi, I'm @YShenZe  
-
 ![GitHub活动统计图](https://github-readme-activity-graph.vercel.app/graph?username=YShenZe&theme=dracula)
 
 - 👀 Passionate about full-stack development  
