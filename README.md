@@ -25,3 +25,7 @@
 ## 📊 GitHub Stats
 
 ![仓库状态统计](https://github-readme-stats.vercel.app/api?username=YShenZe&show_icons=true&theme=transparent)
+
+## Help Me
+
+[![mm_reward_qrcode_1743497808845.png](https://cdn.mengze.vip/gh/YShenZe/Blog-Static-Resource@main/images/mm_reward_qrcode_1743497808845.png)](https://cdn.mengze.vip/gh/YShenZe/Blog-Static-Resource@main/images/mm_reward_qrcode_1743497808845.png)
