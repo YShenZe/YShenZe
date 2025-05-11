@@ -8,6 +8,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
 ![PHP](https://img.shields.io/badge/-PHP-F7DF1E?logo=php&logoColor=black&style=flat-square)
 
+
+可能是我贱吧，不爱我的偏要上
 - 👀 Passionate about full-stack development  
 - 🌱 Currently learning **PHP** & **Node.js**
 - 📫 **Email**: administer@mengze.vip
